@@ -1,2 +1,5 @@
-#aplicaçao principal
+# Ignorar a pasta principal 'app'
 app
+
+# Ignorar configurações do Visual Studio Code
+.vscode/
